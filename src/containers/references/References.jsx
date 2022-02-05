@@ -2,9 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import {Row, Col} from 'react-bootstrap';
 import FormatQuoteIcon from '@mui/icons-material/FormatQuote';
-import Tabpanel from '../education/languages';
-
-
 
 const References = () => (
   

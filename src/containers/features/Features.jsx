@@ -4,20 +4,20 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Business Development',
-    text: 'From day 1 i have been working with some kind of sales related tasks in many different levels and mostly in the IT Industry',
+    title: 'Crazy about Webdevelopment',
+    text: 'From day 1 i started to work with webdevelopment i can´t get enough of it',
   },
   {
     title: 'Mindset',
     text: 'No matter what i am taking on my shoulders i have an positive mindset and a strong will to solve things',
   },
   {
-    title: 'Passion',
-    text: 'Almost every one can achieve a lot, if you also have a passion on what you are doing there is almost no limits',
+    title: 'Large portfolio',
+    text: 'Before i started with web i have a long experience in business management, i find it very useful to have both to get the big perspective',
   },
   {
     title: 'From senior business management to a "junior" developer ',
-    text: 'As the passion and interest led me into webdevelopment i have now studied hard  in almost 2 years and experienced over 3 years in own projects with many happy customers in webdevelopment',
+    text: 'As the passion and interest led me into webdevelopment i have now studied hard in almost 2,5 years and been doing webdevelopment even longer in both own projects but also helped companies as well',
   },
 ];
 

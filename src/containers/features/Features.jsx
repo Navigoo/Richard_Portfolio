@@ -17,7 +17,7 @@ const featuresData = [
   },
   {
     title: 'From senior business management to a "junior" developer ',
-    text: 'As the passion and interest led me into webdevelopment i have now studied hard in almost 2,5 years and been doing webdevelopment even longer in both own projects but also helped companies as well',
+    text: 'As the passion and interest led me into webdevelopment i have now studied hard in almost 2,5 years and been doing webdevelopment even longer in both my own projects but also helped companies as well',
   },
 ];
 

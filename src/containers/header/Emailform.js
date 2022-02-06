@@ -23,8 +23,7 @@ export const Emailform = () => {
   return (
     
     <form className="rc79__header-content__input" ref={form} onSubmit={sendEmail}>
-    
-      <input type="email" name="user_email" />
+      <input type="email" name="user_email" placeholder="Your email" />
       <button onClick={sayThanks} type="submit" value="Send">Lets Talk</button>
     </form>
   );

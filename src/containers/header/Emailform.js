@@ -9,7 +9,7 @@ export const Emailform = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_09wa818', 'template_nv5dt5y', form.current, 'user_twHlPZayD8q3Ffohs1FwM')
+    emailjs.sendForm('service_09wa818', 'template_g8tgw8m', form.current, 'user_twHlPZayD8q3Ffohs1FwM')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
@@ -23,8 +23,9 @@ export const Emailform = () => {
   return (
     
     <form className="rc79__header-content__input" ref={form} onSubmit={sendEmail}>
-      <input type="email" name="user_email" placeholder="Your email" />
+      <input type="email" name="email" placeholder="Your email" />
       <button onClick={sayThanks} type="submit" value="Send">Lets Talk</button>
     </form>
+    
   );
 };

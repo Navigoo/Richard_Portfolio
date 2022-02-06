@@ -9,7 +9,7 @@ const Footer = () => (
   <Container>
   <div className="rc79__footer section__padding">
     <div className="rc79__footer-heading">
-      <h1 className="gradient__text">Thanks for visiting have a nice day!</h1>
+      <h1 className="gradient__text">Thanks for visiting, have a nice day!</h1>
     </div>
 
 
@@ -22,16 +22,14 @@ const Footer = () => (
       <GitHubIcon sx={{ fontSize: 40 , color: 'white'}} href="/google.se"/>   
       </Wrap>     
      
-      <a href="https://github.com/Navigoo">Check out my GitHub here</a>
+      <a href="https://github.com/Navigoo">Check out my GitHub</a><br/>
+      <br/><h2>Contact:</h2>
+      <p>0704237691</p>
+        <p>richard@navigoo.se</p>
       </div>
   
       
 
-      <div className="rc79__footer-links_div">
-        <h4>Get in touch</h4>
-        <p>0704237691</p>
-        <p>richard@navigoo.se</p>
-      </div>
     </div>
 
     <div className="rc79__footer-copyright">
@@ -49,7 +47,7 @@ height:100%;
 display-content:center;
 
 text-align:center;
-p , a{
+p , a, h2{
   font-size: 18px;
   font-family: var(--font-family);
   line-height: 21px;

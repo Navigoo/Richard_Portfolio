@@ -6,7 +6,7 @@ import { saveAs } from "file-saver";
 const saveFile = () => {
    
   saveAs(
-    "https://navigoo.se/wp-content/uploads/2022/02/richard-carlsson-cv.pdf"
+    "https://navigoo.se/wp-content/uploads/2022/02/richard-carlsson-CV-navigoos-cv.pdf"
   );
 };
 

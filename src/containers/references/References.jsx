@@ -7,7 +7,7 @@ const References = () => (
   
   <div>
   <ReferenceHeader> 
-<h1 className="gradient__text">What They Say About Me</h1>
+<h1 className="gradient__text">What They Say</h1>
 </ReferenceHeader>
 
 <Container id="references">
@@ -63,34 +63,25 @@ const Container = styled.div`
 display:flex;
 justify-content:center;
 flex-wrap:wrap;
+padding-left:20px;
 height:auto;
 font-family: var(--font-family);
 align-items:center;
-margin-top:2vh;
+margin-top:5vh;
 margin-bottom:5vh;
 margin-right:2vw;
 margin-left:2vw;
-@media screen and (max-width: 550px) {
-  margin-bottom:20vh;
 
-}
-
-@media screen and (max-width: 630px) {
-  margin-bottom:20vh;
-
-}
-
-@media screen and (max-width: 900px) {
-  margin-bottom:40vh;
-}
 `
 const ReferenceHeader = styled.div`
 display:flex;
 justify-content:center;
 font-family: var(--font-family);
 font-weight: 800;
-  margin-top:10vh;
-  margin-bottom:10vh;
+margin-top:10vh;
+margin-bottom:10vh;
+align-items:center;
+
 
 `
 const Wrap = styled.div`

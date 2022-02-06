@@ -25,14 +25,17 @@ const Features = () => (
   <div className="rc79__features section__padding" id="features">
     <div className="rc79__features-heading">
       <h1 className="gradient__text">Experiences</h1>
-      <p>Business developer with more than 19 Years experience focusing on sales,
+      <p>More than 19 Years experience on sales,
 business management, marketing, customer relationship management,
 planning and execution of a marketing and product strategy, cost analysis,
 market analysis, P&L management, Forecast planning.<br/>
 I have also have a long experience of staff responsibility, hiring and leadership.<br/>
+<br/>
+Now i have changed my career in part of my new dreams and goals to become a webdeveloper and almost<br/>
+finished 2,5 years of studies in total and more years in projects for myself and to businesspartners.
 
-Have my own businesses Navigoo.se and Fumes.se where i work with my passion, webbdesign and web development as well as ecommerce.<br/>
-I would describe myself as open minded and focused, this is a new career for me and have study webdevelopment in 2 years now and have been developing since 2018.</p>
+Beside this i also have my own business Navigoo.se where i work with my passion, webbdesign and web development as well as ecommerce.<br/>
+I am now looking forward to new challanges in my new role!</p>
 
     </div>
     <div className="rc79__features-container">

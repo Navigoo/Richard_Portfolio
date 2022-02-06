@@ -19,7 +19,7 @@ const Footer = () => (
       
         <Wrap>
           
-      <GitHubIcon sx={{ fontSize: 40 , color: 'white'}} href="/google.se"/>   
+      <GitHubIcon sx={{ fontSize: 40 , color: 'white'}}/>   
       </Wrap>     
      
       <a href="https://github.com/Navigoo">Check out my GitHub</a><br/>
@@ -61,5 +61,5 @@ p , a, h2{
 const Wrap = styled.div`
 display:flex;
 justify-content:center;
-align-items:center;
+
 `

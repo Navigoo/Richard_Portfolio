@@ -4,6 +4,15 @@ import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
+import { saveAs } from "file-saver";
+
+
+const saveFile = () => {
+   
+  saveAs(
+    "https://navigoo.se/wp-content/uploads/2022/02/Utbildningsplan-webbutvecklare-2020.pdf"
+  );
+};
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
@@ -106,6 +115,14 @@ export default function BasicTabs() {
        - LIA, graduated with an A<br/>
        - PHP and databases, graduated with an A<br/>
        - Webdevelopment with Javascript, graduated with an A<br/><br/>
+       <br/>
+       <p>More details here:</p><br/>
+       <button onClick={saveFile} type="button">Download</button>
+
+
+
+
+
        <hr/><br/>
        NTI School 2020,Spring<br/>
        Courses:<br/>

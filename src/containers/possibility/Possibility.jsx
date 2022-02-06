@@ -17,7 +17,7 @@ const Possibility = () => (
     <h1 className="gradient__text">Who is Richard</h1>
     <p>As my nearest describe I am selfmotivated,
 
-      dedicated person with a big portion of
+      dedicated person with a great sense of
 
       humor/energy and a natural leader behavior.
 

@@ -7,7 +7,7 @@ import { Emailform  } from './Emailform';
 const Header = () => (
   <div className="rc79__header section__padding" id="home">
     <div className="rc79__header-content">
-      <h1 className="gradient__text">Hi! I Am Richard.
+      <h1 className="gradient__text">Hi!<br/> I Am Richard.
       <br/>Let&apos;s Build Something Amazing Together!</h1>
       <p>19 Years Of Sales, Marketing & Management<br />4 Years Of Webdevelopment</p>
 

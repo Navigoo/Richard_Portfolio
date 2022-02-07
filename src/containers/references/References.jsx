@@ -17,7 +17,7 @@ const References = () => (
     <Wrap>
       <Wrap2>
       <FormatQuoteIcon color="primary" />
-      <p>"I have the honour of working with Richard under the Umbrella of Asus for few years now. Richard is not just a Sr Account Manager but an owner of complete process from start to end. He is not only keen of pushing the volumes out but also keep an eye on profits and constantly look at ways of optimising profits.
+      <p>"I have the honour of working with Richard under the umbrella of Asus for few years now. Richard is not just a Sr Account Manager but an owner of complete process from start to end. He is not only keen of pushing the volumes out but also keep an eye on profits and constantly look at ways of optimising profits.
 
 He is a joy to work with, and also fight for "the best business interest". He always keeps an eye on a bigger picture which demonstrate his key entrepreneurial skill. He manages a very big portion of business at Asus and is able to turn numbers Year on Year. I cannot recall a day when Richard was not able to turn up for the day, he always give his 100%. He is very honest in his approach and his large than life personality not only brings his team together but also the whole organisation.
 
@@ -29,7 +29,7 @@ I certainly think he is a power house behind Asus's recent success. He contribut
     <Wrap>
       <Wrap2>
       <FormatQuoteIcon color="primary" />
-      <p>"Det har varit roligt och lättsamt att jobba med Richard. Behöver du en hemsida kan jag varmt rekommendera honom. Lyhörd och professionell!"<br/><br/><br/>Daniel Möller<br/>Osteopat, Sjukgymnast Och Yoga Instruktör</p>
+      <p>"It has been fun and easy to work with Richard. If you need a web assistance, i can warmly recommend him. Good listener and professional!"<br/><br/><br/>Daniel Möller<br/>Osteopath D.O, physiotherapist and yoga instructor</p>
 
 </Wrap2>
     </Wrap>
@@ -47,7 +47,7 @@ I certainly think he is a power house behind Asus's recent success. He contribut
     <Wrap>
       <Wrap2>
       <FormatQuoteIcon color="primary" />
-      <p>"Richard har varit lyhörd och nogrann genom hela processen, vi har blivit involverade som ett Team för att lyckas nå våra mål och vi är oerhört nöjda med resultatet!"<br/><br/><br/>Friskhuset Linköping<br/></p>
+      <p>"Richard has been responsive and thorough throughout the process, we have become involved as a team to succeed in achieving our goals and we are extremely pleased with the result!"<br/><br/><br/>Friskhuset Linköping<br/></p>
 
 </Wrap2>
     </Wrap></Col>

@@ -118,11 +118,7 @@ export default function BasicTabs() {
        <br/>
        <p>More details here:</p><br/>
        <button onClick={saveFile} type="button">Download</button>
-
-
-
-
-
+       <br/>
        <hr/><br/>
        NTI School 2020,Spring<br/>
        Courses:<br/>

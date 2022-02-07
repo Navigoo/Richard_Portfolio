@@ -5,6 +5,7 @@ import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { saveAs } from "file-saver";
+import Button from '@mui/material/Button';
 
 
 const saveFile = () => {
@@ -117,7 +118,7 @@ export default function BasicTabs() {
        - Webdevelopment with Javascript, graduated with an A<br/><br/>
        <br/>
        <p>More details here:</p><br/>
-       <button onClick={saveFile} type="button">Download</button>
+       <Button color="secondary" onClick={saveFile} type="button">Download</Button>
        <br/>
        <hr/><br/>
        NTI School 2020,Spring<br/>
@@ -132,3 +133,6 @@ export default function BasicTabs() {
     </Box>
   );
 }
+
+
+

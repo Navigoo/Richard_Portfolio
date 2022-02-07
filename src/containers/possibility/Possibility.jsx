@@ -15,13 +15,13 @@ const Possibility = () => (
   </div>
   <div className="rc79__possibility-content">
     <h1 className="gradient__text">Who is Richard</h1>
-    <p>As my nearest describe I am selfmotivated,
+    <p>As my nearest describe i am selfmotivated,
 
       dedicated person with a great sense of
 
       humor/energy and a natural leader behavior.
 
-      The best of me comes out when I face
+      The best of me comes out when i face
 
       challenges and can use my creative thinking,
 

@@ -5,7 +5,7 @@ import './features.css';
 const featuresData = [
   {
     title: 'Crazy about Webdevelopment',
-    text: 'From day 1 i started to work with webdevelopment i can´t get enough of it',
+    text: 'From day one i started to work with webdevelopment i can´t get enough of it',
   },
   {
     title: 'Mindset',

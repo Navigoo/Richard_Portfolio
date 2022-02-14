@@ -71,7 +71,6 @@ export default function BasicTabs() {
           <Tab label="Wordpress" {...a11yProps(0)} />
           <Tab label="PHP" {...a11yProps(1)} />
           <Tab label="Javascript" {...a11yProps(2)} />
-          <Tab label="React" {...a11yProps(3)} />
           <Tab label="Others" {...a11yProps(4)} />
           <Tab label="Marketing" {...a11yProps(5)} />
           <Tab label="Educationdetails" {...a11yProps(6)} />

@@ -89,12 +89,8 @@ export default function BasicTabs() {
         Wordpress first of all.<br/>
       </TabPanel>
       <TabPanel value={value} index={2}>
-        Have studied and worked with Javascript mostly pure.js and ES6,ES7,jQuery and done<br/>
-        many projects, graduated with A from ITHS and have study a lot of my own to gain good knowledge.<br/>
-      </TabPanel>
-      <TabPanel value={value} index={3}>
-        React.js has become a new favorite for me due to its flexibility and responsivness.<br/>
-        Got an A here as well and have done a couple of projects and some jobs with this framework.<br/>
+        Have studied and worked with Javascript mostly pure vanilla.js and ES6,jQuery and done<br/>
+        many projects. React is my preferred framework with js.<br/>
       </TabPanel>
       <TabPanel value={value} index={4}>
         Other technicues that has been a big part of my development is working with mySql, mongoDB, Node.js, express<br/>

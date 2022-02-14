@@ -1,6 +1,8 @@
 import React from 'react';
 import Feature from '../../components/feature/Feature';
 import './features.css';
+import { motion } from "framer-motion";
+
 
 const featuresData = [
   {
@@ -22,6 +24,9 @@ const featuresData = [
 ];
 
 const Features = () => (
+  <motion.div
+  animate={{ x: [0, 50, 0] }}
+>
   <div className="rc79__features section__padding" id="features">
     <div className="rc79__features-heading">
       <h1 className="gradient__text">Experiences</h1>
@@ -44,6 +49,7 @@ I am now looking forward to new challanges in my new role!</p>
       ))}
     </div>
   </div>
+  </motion.div>
 );
 
 

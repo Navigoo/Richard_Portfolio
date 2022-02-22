@@ -10,8 +10,8 @@
     align-items: flex-start;
     flex-direction: column;
     flex-wrap: wrap;
-
     margin-right: 5rem;
+    z-index:0;
 }
 
 .rc79__header-content h1 {
@@ -20,6 +20,7 @@
     font-size: 62px;
     line-height: 80px;
     letter-spacing: -0.04em;
+  
     
    
 }
@@ -30,7 +31,6 @@
     font-size: 20px;
     line-height: 28px;
     color: var(--color-text);
-
     margin-top: 2.5rem;
 }
 
@@ -45,8 +45,7 @@
 }
 
 .rc79__header-content__input input {
-    display: flex;
-   
+    display: flex; 
     flex: 2;
     width: 100%;
     min-height: 50px;

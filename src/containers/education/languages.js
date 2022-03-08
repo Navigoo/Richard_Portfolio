@@ -71,9 +71,9 @@ export default function BasicTabs() {
           <Tab label="Wordpress" {...a11yProps(0)} />
           <Tab label="PHP" {...a11yProps(1)} />
           <Tab label="Javascript" {...a11yProps(2)} />
-          <Tab label="Others" {...a11yProps(4)} />
-          <Tab label="Marketing" {...a11yProps(5)} />
-          <Tab label="Educationdetails" {...a11yProps(6)} />
+          <Tab label="Others" {...a11yProps(3)} />
+          <Tab label="Marketing" {...a11yProps(4)} />
+          <Tab label="Educationdetails" {...a11yProps(5)} />
         </Tabs>
       </Box>
       <TabPanel value={value} index={0}>
@@ -91,16 +91,16 @@ export default function BasicTabs() {
         Have studied and worked with Javascript mostly pure vanilla.js and ES6,jQuery and done<br/>
         many projects. React is my preferred framework with js.<br/>
       </TabPanel>
-      <TabPanel value={value} index={4}>
+      <TabPanel value={value} index={3}>
         Other technicues that has been a big part of my development is working with mySql, mongoDB, Node.js, express<br/>
         and of course working with GitHub.
       </TabPanel>
-      <TabPanel value={value} index={5}>
+      <TabPanel value={value} index={4}>
        As competition is high the knowledge in SEO is critical and this includes all the social platforms<br/>
        and if course Google.<br/>
        I have experince in working with Google Ads, Google Business, Facebbook and Instagram<br/>
        </TabPanel>
-      <TabPanel value={value} index={6}>
+      <TabPanel value={value} index={5}>
        ITHS (IT Högskolan) 2020-2022 (Higher vocational degree)<br/>
        Courses:<br/>
        - Agile development, graduated with an A<br/>
